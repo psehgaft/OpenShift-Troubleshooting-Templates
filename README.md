@@ -32,3 +32,8 @@ sent 0, rcvd 0
 Access directly at https://google-oauth-userid-lookup.6923.rh-us-east-1.openshiftapps.com/
 
 [More details](google-oauth-userid/README.md).
+
+
+## Node KUBECONFIG
+
+export KUBECONFIG=/etc/kubernetes/static-pod-resources/kube-apiserver-certs/secrets/node-kubeconfigs/lb-int.kubeconfig
